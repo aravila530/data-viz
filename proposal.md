@@ -1,4 +1,5 @@
 Amber Avila 
+
 I would like to look at the impact of housing instability on student performance. I am interested to see the relationship between eviction rates in different Chicago neighborhoods and student performance metrics. In terms of metrics, I am thinking about looking at attendance, AP placement, dropout rates, and suspensions and expulsions. Housing instability can disrupt a students ability to focus, attend school regularly, and have access to the necessary resources to succeed. During my summer internship, I studied math journeys and noticed a significant amount of missing data from the black population, as well as having multiple journeys possible due to the missing data. I am curious whether housing instability played a factor in this missing data. I would like to explore the relationship in greater detail to better understand how eviction rates may influence educational outcomes.  
 
 Data Sources 
