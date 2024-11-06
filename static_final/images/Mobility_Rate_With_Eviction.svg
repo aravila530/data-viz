@@ -1,0 +1,3493 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   class="marks"
+   width="1729"
+   height="497"
+   viewBox="0 0 1729 497"
+   id="svg379"
+   sodipodi:docname="Mobility_Rate_With_Eviction.svg"
+   inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
+   inkscape:export-filename="Mobility_Rate_With_Eviction.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs379" />
+  <sodipodi:namedview
+     id="namedview379"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.43626867"
+     inkscape:cx="830.91"
+     inkscape:cy="186.81149"
+     inkscape:window-width="1480"
+     inkscape:window-height="684"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg379" />
+  <rect
+     width="1729"
+     height="497"
+     fill="#ffffff"
+     id="rect1"
+     x="1.9607843"
+     y="0" />
+  <g
+     stroke-miterlimit="10"
+     transform="matrix(0.97733425,0,0,1.0418788,60.512385,36.433091)"
+     id="g379"
+     fill="none">
+    <g
+       class="mark-group role-frame root"
+       role="graphics-object"
+       aria-roledescription="group mark container"
+       id="g378">
+      <g
+         id="g377">
+        <path
+           class="background"
+           aria-hidden="true"
+           d="M 0,0 Z"
+           id="path1" />
+        <g
+           id="g376">
+          <g
+             class="mark-group role-scope concat_0_group"
+             role="graphics-object"
+             aria-roledescription="group mark container"
+             id="g352">
+            <g
+               id="g351">
+              <path
+                 class="background"
+                 aria-hidden="true"
+                 d="m 0.5,0.5 h 1540 v 300 H 0.5 Z"
+                 stroke="#dddddd"
+                 id="path2" />
+              <g
+                 id="g350">
+                <g
+                   class="mark-group role-axis"
+                   aria-hidden="true"
+                   id="g14">
+                  <g
+                     transform="translate(0.5,0.5)"
+                     id="g13">
+                    <path
+                       class="background"
+                       aria-hidden="true"
+                       d="M 0,0 Z"
+                       pointer-events="none"
+                       id="path3" />
+                    <g
+                       id="g12">
+                      <g
+                         class="mark-rule role-axis-grid"
+                         pointer-events="none"
+                         id="g11">
+                        <line
+                           transform="translate(0,300)"
+                           x2="1540"
+                           y2="0"
+                           stroke="#dddddd"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line3"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(0,263)"
+                           x2="1540"
+                           y2="0"
+                           stroke="#dddddd"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line4"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(0,225)"
+                           x2="1540"
+                           y2="0"
+                           stroke="#dddddd"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line5"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(0,188)"
+                           x2="1540"
+                           y2="0"
+                           stroke="#dddddd"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line6"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(0,150)"
+                           x2="1540"
+                           y2="0"
+                           stroke="#dddddd"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line7"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(0,113)"
+                           x2="1540"
+                           y2="0"
+                           stroke="#dddddd"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line8"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(0,75)"
+                           x2="1540"
+                           y2="0"
+                           stroke="#dddddd"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line9"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(0,38)"
+                           x2="1540"
+                           y2="0"
+                           stroke="#dddddd"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line10"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           x2="1540"
+                           y2="0"
+                           stroke="#dddddd"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line11"
+                           x1="0"
+                           y1="0" />
+                      </g>
+                    </g>
+                    <path
+                       class="foreground"
+                       aria-hidden="true"
+                       d=""
+                       pointer-events="none"
+                       display="none"
+                       id="path12" />
+                  </g>
+                </g>
+                <g
+                   class="mark-group role-axis"
+                   role="graphics-symbol"
+                   aria-roledescription="axis"
+                   aria-label="X-axis titled 'Chicago Community Area' for a discrete scale with 77 values: north center, armour square, lincoln park, lake view, lincoln square, ending with south shore"
+                   id="g171">
+                  <g
+                     transform="translate(0.5,300.5)"
+                     id="g170">
+                    <path
+                       class="background"
+                       aria-hidden="true"
+                       d="M 0,0 Z"
+                       pointer-events="none"
+                       id="path14" />
+                    <g
+                       id="g169">
+                      <g
+                         class="mark-rule role-axis-tick"
+                         pointer-events="none"
+                         id="g90">
+                        <line
+                           transform="translate(10)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line14"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(30)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line15"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(50)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line16"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(70)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line17"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(90)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line18"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(110)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line19"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(130)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line20"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(150)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line21"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(170)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line22"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(190)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line23"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(210)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line24"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(230)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line25"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(250)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line26"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(270)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line27"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(290)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line28"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(310)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line29"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(330)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line30"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(350)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line31"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(370)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line32"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(390)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line33"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(410)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line34"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(430)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line35"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(450)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line36"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(470)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line37"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(490)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line38"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(510)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line39"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(530)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line40"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(550)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line41"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(570)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line42"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(590)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line43"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(610)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line44"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(630)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line45"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(650)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line46"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(670)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line47"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(690)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line48"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(710)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line49"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(730)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line50"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(750)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line51"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(770)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line52"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(790)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line53"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(810)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line54"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(830)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line55"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(850)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line56"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(870)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line57"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(890)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line58"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(910)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line59"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(930)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line60"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(950)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line61"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(970)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line62"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(990)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line63"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(1010)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line64"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(1030)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line65"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(1050)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line66"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(1070)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line67"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(1090)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line68"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(1110)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line69"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(1130)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line70"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(1150)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line71"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(1170)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line72"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(1190)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line73"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(1210)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line74"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(1230)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line75"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(1250)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line76"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(1270)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line77"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(1290)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line78"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(1310)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line79"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(1330)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line80"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(1350)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line81"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(1370)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line82"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(1390)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line83"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(1410)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line84"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(1430)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line85"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(1450)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line86"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(1470)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line87"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(1490)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line88"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(1510)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line89"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(1530)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line90"
+                           x1="0"
+                           y1="0" />
+                      </g>
+                      <g
+                         class="mark-text role-axis-label"
+                         pointer-events="none"
+                         id="g166">
+                        <text
+                           text-anchor="end"
+                           transform="rotate(-90,9.75,-2.75)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           opacity="1"
+                           id="text90"
+                           fill="#000000">north center</text>
+                        <text
+                           text-anchor="end"
+                           transform="rotate(-90,19.75,-12.75)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           opacity="1"
+                           id="text91"
+                           fill="#000000">armour square</text>
+                        <text
+                           text-anchor="end"
+                           transform="rotate(-90,29.75,-22.75)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           opacity="1"
+                           id="text92"
+                           fill="#000000">lincoln park</text>
+                        <text
+                           text-anchor="end"
+                           transform="rotate(-90,39.75,-32.75)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           opacity="1"
+                           id="text93"
+                           fill="#000000">lake view</text>
+                        <text
+                           text-anchor="end"
+                           transform="rotate(-90,49.75,-42.75)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           opacity="1"
+                           id="text94"
+                           fill="#000000">lincoln square</text>
+                        <text
+                           text-anchor="end"
+                           transform="rotate(-90,59.75,-52.75)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           opacity="1"
+                           id="text95"
+                           fill="#000000">west town</text>
+                        <text
+                           text-anchor="end"
+                           transform="rotate(-90,69.75,-62.75)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           opacity="1"
+                           id="text96"
+                           fill="#000000">logan square</text>
+                        <text
+                           text-anchor="end"
+                           transform="rotate(-90,79.75,-72.75)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           opacity="1"
+                           id="text97"
+                           fill="#000000">edison park</text>
+                        <text
+                           text-anchor="end"
+                           transform="rotate(-90,89.75,-82.75)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           opacity="1"
+                           id="text98"
+                           fill="#000000">bridgeport</text>
+                        <text
+                           text-anchor="end"
+                           transform="rotate(-90,99.75,-92.75)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           opacity="1"
+                           id="text99"
+                           fill="#000000">norwood park</text>
+                        <text
+                           text-anchor="end"
+                           transform="rotate(-90,109.75,-102.75)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           opacity="1"
+                           id="text100"
+                           fill="#000000">north park</text>
+                        <text
+                           text-anchor="end"
+                           transform="rotate(-90,119.75,-112.75)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           opacity="1"
+                           id="text101"
+                           fill="#000000">jefferson park</text>
+                        <text
+                           text-anchor="end"
+                           transform="rotate(-90,129.75,-122.75)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           opacity="1"
+                           id="text102"
+                           fill="#000000">avondale</text>
+                        <text
+                           text-anchor="end"
+                           transform="rotate(-90,139.75,-132.75)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           opacity="1"
+                           id="text103"
+                           fill="#000000">lower west side</text>
+                        <text
+                           text-anchor="end"
+                           transform="rotate(-90,149.75,-142.75)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           opacity="1"
+                           id="text104"
+                           fill="#000000">o'hare</text>
+                        <text
+                           text-anchor="end"
+                           transform="rotate(-90,159.75,-152.75)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           opacity="1"
+                           id="text105"
+                           fill="#000000">uptown</text>
+                        <text
+                           text-anchor="end"
+                           transform="rotate(-90,169.75,-162.75)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           opacity="1"
+                           id="text106"
+                           fill="#000000">near west side</text>
+                        <text
+                           text-anchor="end"
+                           transform="rotate(-90,179.75,-172.75)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           opacity="1"
+                           id="text107"
+                           fill="#000000">near north side</text>
+                        <text
+                           text-anchor="end"
+                           transform="rotate(-90,189.75,-182.75)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           opacity="1"
+                           id="text108"
+                           fill="#000000">irving park</text>
+                        <text
+                           text-anchor="end"
+                           transform="rotate(-90,199.75,-192.75)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           opacity="1"
+                           id="text109"
+                           fill="#000000">albany park</text>
+                        <text
+                           text-anchor="end"
+                           transform="rotate(-90,209.75,-202.75)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           opacity="1"
+                           id="text110"
+                           fill="#000000">loop</text>
+                        <text
+                           text-anchor="end"
+                           transform="rotate(-90,219.75,-212.75)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           opacity="1"
+                           id="text111"
+                           fill="#000000">edgewater</text>
+                        <text
+                           text-anchor="end"
+                           transform="rotate(-90,229.75,-222.75)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           opacity="1"
+                           id="text112"
+                           fill="#000000">archer heights</text>
+                        <text
+                           text-anchor="end"
+                           transform="rotate(-90,239.75,-232.75)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           opacity="1"
+                           id="text113"
+                           fill="#000000">mckinley park</text>
+                        <text
+                           text-anchor="end"
+                           transform="rotate(-90,249.75,-242.75)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           opacity="1"
+                           id="text114"
+                           fill="#000000">portage park</text>
+                        <text
+                           text-anchor="end"
+                           transform="rotate(-90,259.75,-252.75)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           opacity="1"
+                           id="text115"
+                           fill="#000000">garfield ridge</text>
+                        <text
+                           text-anchor="end"
+                           transform="rotate(-90,269.75,-262.75)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           opacity="1"
+                           id="text116"
+                           fill="#000000">hermosa</text>
+                        <text
+                           text-anchor="end"
+                           transform="rotate(-90,279.75,-272.75)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           opacity="1"
+                           id="text117"
+                           fill="#000000">dunning</text>
+                        <text
+                           text-anchor="end"
+                           transform="rotate(-90,289.75,-282.75)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           opacity="1"
+                           id="text118"
+                           fill="#000000">belmont cragin</text>
+                        <text
+                           text-anchor="end"
+                           transform="rotate(-90,299.75,-292.75)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           opacity="1"
+                           id="text119"
+                           fill="#000000">west ridge</text>
+                        <text
+                           text-anchor="end"
+                           transform="rotate(-90,309.75,-302.75)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           opacity="1"
+                           id="text120"
+                           fill="#000000">south lawndale</text>
+                        <text
+                           text-anchor="end"
+                           transform="rotate(-90,319.75,-312.75)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           opacity="1"
+                           id="text121"
+                           fill="#000000">clearing</text>
+                        <text
+                           text-anchor="end"
+                           transform="rotate(-90,329.75,-322.75)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           opacity="1"
+                           id="text122"
+                           fill="#000000">forest glen</text>
+                        <text
+                           text-anchor="end"
+                           transform="rotate(-90,339.75,-332.75)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           opacity="1"
+                           id="text123"
+                           fill="#000000">rogers park</text>
+                        <text
+                           text-anchor="end"
+                           transform="rotate(-90,349.75,-342.75)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           opacity="1"
+                           id="text124"
+                           fill="#000000">brighton park</text>
+                        <text
+                           text-anchor="end"
+                           transform="rotate(-90,359.75,-352.75)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           opacity="1"
+                           id="text125"
+                           fill="#000000">east side</text>
+                        <text
+                           text-anchor="end"
+                           transform="rotate(-90,369.75,-362.75)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           opacity="1"
+                           id="text126"
+                           fill="#000000">gage park</text>
+                        <text
+                           text-anchor="end"
+                           transform="rotate(-90,379.75,-372.75)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           opacity="1"
+                           id="text127"
+                           fill="#000000">hyde park</text>
+                        <text
+                           text-anchor="end"
+                           transform="rotate(-90,389.75,-382.75)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           opacity="1"
+                           id="text128"
+                           fill="#000000">west elsdon</text>
+                        <text
+                           text-anchor="end"
+                           transform="rotate(-90,399.75,-392.75)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           opacity="1"
+                           id="text129"
+                           fill="#000000">burnside</text>
+                        <text
+                           text-anchor="end"
+                           transform="rotate(-90,409.75,-402.75)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           opacity="1"
+                           id="text130"
+                           fill="#000000">west lawn</text>
+                        <text
+                           text-anchor="end"
+                           transform="rotate(-90,419.75,-412.75)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           opacity="1"
+                           id="text131"
+                           fill="#000000">montclare</text>
+                        <text
+                           text-anchor="end"
+                           transform="rotate(-90,429.75,-422.75)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           opacity="1"
+                           id="text132"
+                           fill="#000000">humboldt park</text>
+                        <text
+                           text-anchor="end"
+                           transform="rotate(-90,439.75,-432.75)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           opacity="1"
+                           id="text133"
+                           fill="#000000">new city</text>
+                        <text
+                           text-anchor="end"
+                           transform="rotate(-90,449.75,-442.75)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           opacity="1"
+                           id="text134"
+                           fill="#000000">near south side</text>
+                        <text
+                           text-anchor="end"
+                           transform="rotate(-90,459.75,-452.75)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           opacity="1"
+                           id="text135"
+                           fill="#000000">douglas</text>
+                        <text
+                           text-anchor="end"
+                           transform="rotate(-90,469.75,-462.75)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           opacity="1"
+                           id="text136"
+                           fill="#000000">beverly</text>
+                        <text
+                           text-anchor="end"
+                           transform="rotate(-90,479.75,-472.75)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           opacity="1"
+                           id="text137"
+                           fill="#000000">fuller park</text>
+                        <text
+                           text-anchor="end"
+                           transform="rotate(-90,489.75,-482.75)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           opacity="1"
+                           id="text138"
+                           fill="#000000">south deering</text>
+                        <text
+                           text-anchor="end"
+                           transform="rotate(-90,499.75,-492.75)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           opacity="1"
+                           id="text139"
+                           fill="#000000">morgan park</text>
+                        <text
+                           text-anchor="end"
+                           transform="rotate(-90,509.75,-502.75)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           opacity="1"
+                           id="text140"
+                           fill="#000000">ashburn</text>
+                        <text
+                           text-anchor="end"
+                           transform="rotate(-90,519.75,-512.75)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           opacity="1"
+                           id="text141"
+                           fill="#000000">calumet heights</text>
+                        <text
+                           text-anchor="end"
+                           transform="rotate(-90,529.75,-522.75)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           opacity="1"
+                           id="text142"
+                           fill="#000000">pullman</text>
+                        <text
+                           text-anchor="end"
+                           transform="rotate(-90,539.75,-532.75)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           opacity="1"
+                           id="text143"
+                           fill="#000000">kenwood</text>
+                        <text
+                           text-anchor="end"
+                           transform="rotate(-90,549.75,-542.75)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           opacity="1"
+                           id="text144"
+                           fill="#000000">grand boulevard</text>
+                        <text
+                           text-anchor="end"
+                           transform="rotate(-90,559.75,-552.75)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           opacity="1"
+                           id="text145"
+                           fill="#000000">east garfield park</text>
+                        <text
+                           text-anchor="end"
+                           transform="rotate(-90,569.75,-562.75)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           opacity="1"
+                           id="text146"
+                           fill="#000000">chicago lawn</text>
+                        <text
+                           text-anchor="end"
+                           transform="rotate(-90,579.75,-572.75)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           opacity="1"
+                           id="text147"
+                           fill="#000000">avalon park</text>
+                        <text
+                           text-anchor="end"
+                           transform="rotate(-90,589.75,-582.75)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           opacity="1"
+                           id="text148"
+                           fill="#000000">woodlawn</text>
+                        <text
+                           text-anchor="end"
+                           transform="rotate(-90,599.75,-592.75)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           opacity="1"
+                           id="text149"
+                           fill="#000000">washington heights</text>
+                        <text
+                           text-anchor="end"
+                           transform="rotate(-90,609.75,-602.75)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           opacity="1"
+                           id="text150"
+                           fill="#000000">hegewisch</text>
+                        <text
+                           text-anchor="end"
+                           transform="rotate(-90,619.75,-612.75)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           opacity="1"
+                           id="text151"
+                           fill="#000000">north lawndale</text>
+                        <text
+                           text-anchor="end"
+                           transform="rotate(-90,629.75,-622.75)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           opacity="1"
+                           id="text152"
+                           fill="#000000">west englewood</text>
+                        <text
+                           text-anchor="end"
+                           transform="rotate(-90,639.75,-632.75)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           opacity="1"
+                           id="text153"
+                           fill="#000000">roseland</text>
+                        <text
+                           text-anchor="end"
+                           transform="rotate(-90,649.75,-642.75)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           opacity="1"
+                           id="text154"
+                           fill="#000000">mount greenwood</text>
+                        <text
+                           text-anchor="end"
+                           transform="rotate(-90,659.75,-652.75)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           opacity="1"
+                           id="text155"
+                           fill="#000000">austin</text>
+                        <text
+                           text-anchor="end"
+                           transform="rotate(-90,669.75,-662.75)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           opacity="1"
+                           id="text156"
+                           fill="#000000">auburn gresham</text>
+                        <text
+                           text-anchor="end"
+                           transform="rotate(-90,679.75,-672.75)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           opacity="1"
+                           id="text157"
+                           fill="#000000">englewood</text>
+                        <text
+                           text-anchor="end"
+                           transform="rotate(-90,689.75,-682.75)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           opacity="1"
+                           id="text158"
+                           fill="#000000">west garfield park</text>
+                        <text
+                           text-anchor="end"
+                           transform="rotate(-90,699.75,-692.75)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           opacity="1"
+                           id="text159"
+                           fill="#000000">greater grand crossing</text>
+                        <text
+                           text-anchor="end"
+                           transform="rotate(-90,709.75,-702.75)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           opacity="1"
+                           id="text160"
+                           fill="#000000">washington park</text>
+                        <text
+                           text-anchor="end"
+                           transform="rotate(-90,719.75,-712.75)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           opacity="1"
+                           id="text161"
+                           fill="#000000">south chicago</text>
+                        <text
+                           text-anchor="end"
+                           transform="rotate(-90,729.75,-722.75)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           opacity="1"
+                           id="text162"
+                           fill="#000000">oakland</text>
+                        <text
+                           text-anchor="end"
+                           transform="rotate(-90,739.75,-732.75)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           opacity="1"
+                           id="text163"
+                           fill="#000000">west pullman</text>
+                        <text
+                           text-anchor="end"
+                           transform="rotate(-90,749.75,-742.75)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           opacity="1"
+                           id="text164"
+                           fill="#000000">riverdale</text>
+                        <text
+                           text-anchor="end"
+                           transform="rotate(-90,759.75,-752.75)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           opacity="1"
+                           id="text165"
+                           fill="#000000">chatham</text>
+                        <text
+                           text-anchor="end"
+                           transform="rotate(-90,769.75,-762.75)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           opacity="1"
+                           id="text166"
+                           fill="#000000">south shore</text>
+                      </g>
+                      <g
+                         class="mark-rule role-axis-domain"
+                         pointer-events="none"
+                         id="g167">
+                        <line
+                           x2="1540"
+                           y2="0"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line166"
+                           x1="0"
+                           y1="0" />
+                      </g>
+                      <g
+                         class="mark-text role-axis-title"
+                         pointer-events="none"
+                         id="g168">
+                        <text
+                           text-anchor="middle"
+                           transform="translate(770,120.05371)"
+                           font-family="sans-serif"
+                           font-size="11px"
+                           font-weight="bold"
+                           opacity="1"
+                           id="text167"
+                           fill="#000000">Chicago Community Area</text>
+                      </g>
+                    </g>
+                    <path
+                       class="foreground"
+                       aria-hidden="true"
+                       d=""
+                       pointer-events="none"
+                       display="none"
+                       id="path169" />
+                  </g>
+                </g>
+                <g
+                   class="mark-group role-axis"
+                   role="graphics-symbol"
+                   aria-roledescription="axis"
+                   aria-label="Y-axis titled 'Rate (%)' for a linear scale with values from 0 to 40"
+                   id="g192">
+                  <g
+                     transform="translate(0.5,0.5)"
+                     id="g191">
+                    <path
+                       class="background"
+                       aria-hidden="true"
+                       d="M 0,0 Z"
+                       pointer-events="none"
+                       id="path171" />
+                    <g
+                       id="g190">
+                      <g
+                         class="mark-rule role-axis-tick"
+                         pointer-events="none"
+                         id="g179">
+                        <line
+                           transform="translate(0,300)"
+                           x2="-5"
+                           y2="0"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line171"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(0,263)"
+                           x2="-5"
+                           y2="0"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line172"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(0,225)"
+                           x2="-5"
+                           y2="0"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line173"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(0,188)"
+                           x2="-5"
+                           y2="0"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line174"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(0,150)"
+                           x2="-5"
+                           y2="0"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line175"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(0,113)"
+                           x2="-5"
+                           y2="0"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line176"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(0,75)"
+                           x2="-5"
+                           y2="0"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line177"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           transform="translate(0,38)"
+                           x2="-5"
+                           y2="0"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line178"
+                           x1="0"
+                           y1="0" />
+                        <line
+                           x2="-5"
+                           y2="0"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line179"
+                           x1="0"
+                           y1="0" />
+                      </g>
+                      <g
+                         class="mark-text role-axis-label"
+                         pointer-events="none"
+                         id="g187">
+                        <text
+                           text-anchor="end"
+                           transform="translate(-7,303)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           opacity="1"
+                           id="text179"
+                           fill="#000000">0</text>
+                        <text
+                           text-anchor="end"
+                           transform="translate(-7,265.5)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           opacity="1"
+                           id="text180"
+                           fill="#000000">5</text>
+                        <text
+                           text-anchor="end"
+                           transform="translate(-7,228)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           opacity="1"
+                           id="text181"
+                           fill="#000000">10</text>
+                        <text
+                           text-anchor="end"
+                           transform="translate(-7,190.5)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           opacity="1"
+                           id="text182"
+                           fill="#000000">15</text>
+                        <text
+                           text-anchor="end"
+                           transform="translate(-7,153)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           opacity="1"
+                           id="text183"
+                           fill="#000000">20</text>
+                        <text
+                           text-anchor="end"
+                           transform="translate(-7,115.5)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           opacity="1"
+                           id="text184"
+                           fill="#000000">25</text>
+                        <text
+                           text-anchor="end"
+                           transform="translate(-7,78)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           opacity="1"
+                           id="text185"
+                           fill="#000000">30</text>
+                        <text
+                           text-anchor="end"
+                           transform="translate(-7,40.5)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           opacity="1"
+                           id="text186"
+                           fill="#000000">35</text>
+                        <text
+                           text-anchor="end"
+                           transform="translate(-7,3)"
+                           font-family="sans-serif"
+                           font-size="10px"
+                           opacity="1"
+                           id="text187"
+                           fill="#000000">40</text>
+                      </g>
+                      <g
+                         class="mark-rule role-axis-domain"
+                         pointer-events="none"
+                         id="g188">
+                        <line
+                           transform="translate(0,300)"
+                           x2="0"
+                           y2="-300"
+                           stroke="#888888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line187"
+                           x1="0"
+                           y1="0" />
+                      </g>
+                      <g
+                         class="mark-text role-axis-title"
+                         pointer-events="none"
+                         id="g189">
+                        <text
+                           text-anchor="middle"
+                           transform="rotate(-90,62.938477,87.061523)"
+                           font-family="sans-serif"
+                           font-size="11px"
+                           font-weight="bold"
+                           opacity="1"
+                           id="text188"
+                           fill="#000000">Rate (%)</text>
+                      </g>
+                    </g>
+                    <path
+                       class="foreground"
+                       aria-hidden="true"
+                       d=""
+                       pointer-events="none"
+                       display="none"
+                       id="path190" />
+                  </g>
+                </g>
+                <g
+                   class="mark-rect role-mark concat_0_layer_0_marks"
+                   role="graphics-object"
+                   aria-roledescription="rect mark container"
+                   id="g268">
+                  <path
+                     aria-label="Chicago Community Area: albany park; Rate (%): 9.81428571429"
+                     role="graphics-symbol"
+                     aria-roledescription="bar"
+                     d="m 381,226.39286 h 18 V 300 h -18 z"
+                     id="path192"
+                     fill="#50c4d9" />
+                  <path
+                     aria-label="Chicago Community Area: archer heights; Rate (%): 11.2"
+                     role="graphics-symbol"
+                     aria-roledescription="bar"
+                     d="m 441,216 h 18 v 84 h -18 z"
+                     id="path193"
+                     fill="#50c4d9" />
+                  <path
+                     aria-label="Chicago Community Area: armour square; Rate (%): 7.76666666667"
+                     role="graphics-symbol"
+                     aria-roledescription="bar"
+                     d="M 21,241.75 H 39 V 300 H 21 Z"
+                     id="path194"
+                     fill="#50c4d9" />
+                  <path
+                     aria-label="Chicago Community Area: ashburn; Rate (%): 10.8375"
+                     role="graphics-symbol"
+                     aria-roledescription="bar"
+                     d="m 1001,218.71875 h 18 V 300 h -18 z"
+                     id="path195"
+                     fill="#50c4d9" />
+                  <path
+                     aria-label="Chicago Community Area: auburn gresham; Rate (%): 24.1"
+                     role="graphics-symbol"
+                     aria-roledescription="bar"
+                     d="m 1321,119.25 h 18 V 300 h -18 z"
+                     id="path196"
+                     fill="#50c4d9" />
+                  <path
+                     aria-label="Chicago Community Area: austin; Rate (%): 20.5055555556"
+                     role="graphics-symbol"
+                     aria-roledescription="bar"
+                     d="m 1301,146.20833 h 18 V 300 h -18 z"
+                     id="path197"
+                     fill="#50c4d9" />
+                  <path
+                     aria-label="Chicago Community Area: avalon park; Rate (%): 25.2666666667"
+                     role="graphics-symbol"
+                     aria-roledescription="bar"
+                     d="m 1141,110.5 h 18 V 300 h -18 z"
+                     id="path198"
+                     fill="#50c4d9" />
+                  <path
+                     aria-label="Chicago Community Area: avondale; Rate (%): 9.75"
+                     role="graphics-symbol"
+                     aria-roledescription="bar"
+                     d="m 241,226.875 h 18 V 300 h -18 z"
+                     id="path199"
+                     fill="#50c4d9" />
+                  <path
+                     aria-label="Chicago Community Area: belmont cragin; Rate (%): 10.225"
+                     role="graphics-symbol"
+                     aria-roledescription="bar"
+                     d="m 561,223.3125 h 18 V 300 h -18 z"
+                     id="path200"
+                     fill="#50c4d9" />
+                  <path
+                     aria-label="Chicago Community Area: beverly; Rate (%): 6.95"
+                     role="graphics-symbol"
+                     aria-roledescription="bar"
+                     d="m 921,247.875 h 18 V 300 h -18 z"
+                     id="path201"
+                     fill="#50c4d9" />
+                  <path
+                     aria-label="Chicago Community Area: bridgeport; Rate (%): 7.96"
+                     role="graphics-symbol"
+                     aria-roledescription="bar"
+                     d="m 161,240.3 h 18 V 300 h -18 z"
+                     id="path202"
+                     fill="#50c4d9" />
+                  <path
+                     aria-label="Chicago Community Area: brighton park; Rate (%): 10.1666666667"
+                     role="graphics-symbol"
+                     aria-roledescription="bar"
+                     d="m 681,223.75 h 18 V 300 h -18 z"
+                     id="path203"
+                     fill="#50c4d9" />
+                  <path
+                     aria-label="Chicago Community Area: burnside; Rate (%): 30.7"
+                     role="graphics-symbol"
+                     aria-roledescription="bar"
+                     d="m 781,69.75 h 18 V 300 h -18 z"
+                     id="path204"
+                     fill="#50c4d9" />
+                  <path
+                     aria-label="Chicago Community Area: calumet heights; Rate (%): 10.5"
+                     role="graphics-symbol"
+                     aria-roledescription="bar"
+                     d="m 1021,221.25 h 18 V 300 h -18 z"
+                     id="path205"
+                     fill="#50c4d9" />
+                  <path
+                     aria-label="Chicago Community Area: chatham; Rate (%): 14.9125"
+                     role="graphics-symbol"
+                     aria-roledescription="bar"
+                     d="m 1501,188.15625 h 18 V 300 h -18 z"
+                     id="path206"
+                     fill="#50c4d9" />
+                  <path
+                     aria-label="Chicago Community Area: chicago lawn; Rate (%): 17.2857142857"
+                     role="graphics-symbol"
+                     aria-roledescription="bar"
+                     d="m 1121,170.35714 h 18 V 300 h -18 z"
+                     id="path207"
+                     fill="#50c4d9" />
+                  <path
+                     aria-label="Chicago Community Area: clearing; Rate (%): 7.6"
+                     role="graphics-symbol"
+                     aria-roledescription="bar"
+                     d="m 621,243 h 18 v 57 h -18 z"
+                     id="path208"
+                     fill="#50c4d9" />
+                  <path
+                     aria-label="Chicago Community Area: douglas; Rate (%): 17.6"
+                     role="graphics-symbol"
+                     aria-roledescription="bar"
+                     d="m 901,168 h 18 v 132 h -18 z"
+                     id="path209"
+                     fill="#50c4d9" />
+                  <path
+                     aria-label="Chicago Community Area: dunning; Rate (%): 4.73333333333"
+                     role="graphics-symbol"
+                     aria-roledescription="bar"
+                     d="m 541,264.5 h 18 V 300 h -18 z"
+                     id="path210"
+                     fill="#50c4d9" />
+                  <path
+                     aria-label="Chicago Community Area: east garfield park; Rate (%): 22.33"
+                     role="graphics-symbol"
+                     aria-roledescription="bar"
+                     d="m 1101,132.525 h 18 V 300 h -18 z"
+                     id="path211"
+                     fill="#50c4d9" />
+                  <path
+                     aria-label="Chicago Community Area: east side; Rate (%): 9.56666666667"
+                     role="graphics-symbol"
+                     aria-roledescription="bar"
+                     d="m 701,228.25 h 18 V 300 h -18 z"
+                     id="path212"
+                     fill="#50c4d9" />
+                  <path
+                     aria-label="Chicago Community Area: edgewater; Rate (%): 9.54"
+                     role="graphics-symbol"
+                     aria-roledescription="bar"
+                     d="m 421,228.45 h 18 V 300 h -18 z"
+                     id="path213"
+                     fill="#50c4d9" />
+                  <path
+                     aria-label="Chicago Community Area: edison park; Rate (%): 3.3"
+                     role="graphics-symbol"
+                     aria-roledescription="bar"
+                     d="m 141,275.25 h 18 V 300 h -18 z"
+                     id="path214"
+                     fill="#50c4d9" />
+                  <path
+                     aria-label="Chicago Community Area: englewood; Rate (%): 25.5583333333"
+                     role="graphics-symbol"
+                     aria-roledescription="bar"
+                     d="m 1341,108.3125 h 18 V 300 h -18 z"
+                     id="path215"
+                     fill="#50c4d9" />
+                  <path
+                     aria-label="Chicago Community Area: forest glen; Rate (%): 2.63333333333"
+                     role="graphics-symbol"
+                     aria-roledescription="bar"
+                     d="m 641,280.25 h 18 V 300 h -18 z"
+                     id="path216"
+                     fill="#50c4d9" />
+                  <path
+                     aria-label="Chicago Community Area: fuller park; Rate (%): 18.6"
+                     role="graphics-symbol"
+                     aria-roledescription="bar"
+                     d="m 941,160.5 h 18 V 300 h -18 z"
+                     id="path217"
+                     fill="#50c4d9" />
+                  <path
+                     aria-label="Chicago Community Area: gage park; Rate (%): 8.24444444444"
+                     role="graphics-symbol"
+                     aria-roledescription="bar"
+                     d="m 721,238.16667 h 18 V 300 h -18 z"
+                     id="path218"
+                     fill="#50c4d9" />
+                  <path
+                     aria-label="Chicago Community Area: garfield ridge; Rate (%): 9.84"
+                     role="graphics-symbol"
+                     aria-roledescription="bar"
+                     d="m 501,226.2 h 18 V 300 h -18 z"
+                     id="path219"
+                     fill="#50c4d9" />
+                  <path
+                     aria-label="Chicago Community Area: grand boulevard; Rate (%): 16.85"
+                     role="graphics-symbol"
+                     aria-roledescription="bar"
+                     d="m 1081,173.625 h 18 V 300 h -18 z"
+                     id="path220"
+                     fill="#50c4d9" />
+                  <path
+                     aria-label="Chicago Community Area: greater grand crossing; Rate (%): 27.8888888889"
+                     role="graphics-symbol"
+                     aria-roledescription="bar"
+                     d="m 1381,90.833333 h 18 V 300 h -18 z"
+                     id="path221"
+                     fill="#50c4d9" />
+                  <path
+                     aria-label="Chicago Community Area: hegewisch; Rate (%): 10.3"
+                     role="graphics-symbol"
+                     aria-roledescription="bar"
+                     d="m 1201,222.75 h 18 V 300 h -18 z"
+                     id="path222"
+                     fill="#50c4d9" />
+                  <path
+                     aria-label="Chicago Community Area: hermosa; Rate (%): 13.3"
+                     role="graphics-symbol"
+                     aria-roledescription="bar"
+                     d="m 521,200.25 h 18 V 300 h -18 z"
+                     id="path223"
+                     fill="#50c4d9" />
+                  <path
+                     aria-label="Chicago Community Area: humboldt park; Rate (%): 15.85"
+                     role="graphics-symbol"
+                     aria-roledescription="bar"
+                     d="m 841,181.125 h 18 V 300 h -18 z"
+                     id="path224"
+                     fill="#50c4d9" />
+                  <path
+                     aria-label="Chicago Community Area: hyde park; Rate (%): 9.25"
+                     role="graphics-symbol"
+                     aria-roledescription="bar"
+                     d="m 741,230.625 h 18 V 300 h -18 z"
+                     id="path225"
+                     fill="#50c4d9" />
+                  <path
+                     aria-label="Chicago Community Area: irving park; Rate (%): 8.47777777778"
+                     role="graphics-symbol"
+                     aria-roledescription="bar"
+                     d="m 361,236.41667 h 18 V 300 h -18 z"
+                     id="path226"
+                     fill="#50c4d9" />
+                  <path
+                     aria-label="Chicago Community Area: jefferson park; Rate (%): 8.8"
+                     role="graphics-symbol"
+                     aria-roledescription="bar"
+                     d="m 221,234 h 18 v 66 h -18 z"
+                     id="path227"
+                     fill="#50c4d9" />
+                  <path
+                     aria-label="Chicago Community Area: kenwood; Rate (%): 9.92"
+                     role="graphics-symbol"
+                     aria-roledescription="bar"
+                     d="m 1061,225.6 h 18 V 300 h -18 z"
+                     id="path228"
+                     fill="#50c4d9" />
+                  <path
+                     aria-label="Chicago Community Area: lake view; Rate (%): 4.23"
+                     role="graphics-symbol"
+                     aria-roledescription="bar"
+                     d="M 61,268.275 H 79 V 300 H 61 Z"
+                     id="path229"
+                     fill="#50c4d9" />
+                  <path
+                     aria-label="Chicago Community Area: lincoln park; Rate (%): 3.95714285714"
+                     role="graphics-symbol"
+                     aria-roledescription="bar"
+                     d="M 41,270.32143 H 59 V 300 H 41 Z"
+                     id="path230"
+                     fill="#50c4d9" />
+                  <path
+                     aria-label="Chicago Community Area: lincoln square; Rate (%): 6.7"
+                     role="graphics-symbol"
+                     aria-roledescription="bar"
+                     d="M 81,249.75 H 99 V 300 H 81 Z"
+                     id="path231"
+                     fill="#50c4d9" />
+                  <path
+                     aria-label="Chicago Community Area: logan square; Rate (%): 8.95454545455"
+                     role="graphics-symbol"
+                     aria-roledescription="bar"
+                     d="m 121,232.84091 h 18 V 300 h -18 z"
+                     id="path232"
+                     fill="#50c4d9" />
+                  <path
+                     aria-label="Chicago Community Area: loop; Rate (%): 1.3"
+                     role="graphics-symbol"
+                     aria-roledescription="bar"
+                     d="m 401,290.25 h 18 V 300 h -18 z"
+                     id="path233"
+                     fill="#50c4d9" />
+                  <path
+                     aria-label="Chicago Community Area: lower west side; Rate (%): 9.43636363636"
+                     role="graphics-symbol"
+                     aria-roledescription="bar"
+                     d="m 261,229.22727 h 18 V 300 h -18 z"
+                     id="path234"
+                     fill="#50c4d9" />
+                  <path
+                     aria-label="Chicago Community Area: mckinley park; Rate (%): 9.63333333333"
+                     role="graphics-symbol"
+                     aria-roledescription="bar"
+                     d="m 461,227.75 h 18 V 300 h -18 z"
+                     id="path235"
+                     fill="#50c4d9" />
+                  <path
+                     aria-label="Chicago Community Area: montclare; Rate (%): 7.1"
+                     role="graphics-symbol"
+                     aria-roledescription="bar"
+                     d="m 821,246.75 h 18 V 300 h -18 z"
+                     id="path236"
+                     fill="#50c4d9" />
+                  <path
+                     aria-label="Chicago Community Area: morgan park; Rate (%): 13.625"
+                     role="graphics-symbol"
+                     aria-roledescription="bar"
+                     d="m 981,197.8125 h 18 V 300 h -18 z"
+                     id="path237"
+                     fill="#50c4d9" />
+                  <path
+                     aria-label="Chicago Community Area: mount greenwood; Rate (%): 4.06666666667"
+                     role="graphics-symbol"
+                     aria-roledescription="bar"
+                     d="m 1281,269.5 h 18 V 300 h -18 z"
+                     id="path238"
+                     fill="#50c4d9" />
+                  <path
+                     aria-label="Chicago Community Area: near north side; Rate (%): 7.1"
+                     role="graphics-symbol"
+                     aria-roledescription="bar"
+                     d="m 341,246.75 h 18 V 300 h -18 z"
+                     id="path239"
+                     fill="#50c4d9" />
+                  <path
+                     aria-label="Chicago Community Area: near south side; Rate (%): 8.1"
+                     role="graphics-symbol"
+                     aria-roledescription="bar"
+                     d="m 881,239.25 h 18 V 300 h -18 z"
+                     id="path240"
+                     fill="#50c4d9" />
+                  <path
+                     aria-label="Chicago Community Area: near west side; Rate (%): 8.88571428571"
+                     role="graphics-symbol"
+                     aria-roledescription="bar"
+                     d="m 321,233.35714 h 18 V 300 h -18 z"
+                     id="path241"
+                     fill="#50c4d9" />
+                  <path
+                     aria-label="Chicago Community Area: new city; Rate (%): 15.3928571429"
+                     role="graphics-symbol"
+                     aria-roledescription="bar"
+                     d="m 861,184.55357 h 18 V 300 h -18 z"
+                     id="path242"
+                     fill="#50c4d9" />
+                  <path
+                     aria-label="Chicago Community Area: north center; Rate (%): 5.025"
+                     role="graphics-symbol"
+                     aria-roledescription="bar"
+                     d="M 1,262.3125 H 19 V 300 H 1 Z"
+                     id="path243"
+                     fill="#50c4d9" />
+                  <path
+                     aria-label="Chicago Community Area: north lawndale; Rate (%): 21.675"
+                     role="graphics-symbol"
+                     aria-roledescription="bar"
+                     d="m 1221,137.4375 h 18 V 300 h -18 z"
+                     id="path244"
+                     fill="#50c4d9" />
+                  <path
+                     aria-label="Chicago Community Area: north park; Rate (%): 4.25"
+                     role="graphics-symbol"
+                     aria-roledescription="bar"
+                     d="m 201,268.125 h 18 V 300 h -18 z"
+                     id="path245"
+                     fill="#50c4d9" />
+                  <path
+                     aria-label="Chicago Community Area: norwood park; Rate (%): 4.3"
+                     role="graphics-symbol"
+                     aria-roledescription="bar"
+                     d="m 181,267.75 h 18 V 300 h -18 z"
+                     id="path246"
+                     fill="#50c4d9" />
+                  <path
+                     aria-label="Chicago Community Area: o'hare; Rate (%): 11"
+                     role="graphics-symbol"
+                     aria-roledescription="bar"
+                     d="m 281,217.5 h 18 V 300 h -18 z"
+                     id="path247"
+                     fill="#50c4d9" />
+                  <path
+                     aria-label="Chicago Community Area: oakland; Rate (%): 39"
+                     role="graphics-symbol"
+                     aria-roledescription="bar"
+                     d="m 1441,7.5 h 18 V 300 h -18 z"
+                     id="path248"
+                     fill="#50c4d9" />
+                  <path
+                     aria-label="Chicago Community Area: portage park; Rate (%): 11.9333333333"
+                     role="graphics-symbol"
+                     aria-roledescription="bar"
+                     d="m 481,210.5 h 18 V 300 h -18 z"
+                     id="path249"
+                     fill="#50c4d9" />
+                  <path
+                     aria-label="Chicago Community Area: pullman; Rate (%): 16.68"
+                     role="graphics-symbol"
+                     aria-roledescription="bar"
+                     d="m 1041,174.9 h 18 V 300 h -18 z"
+                     id="path250"
+                     fill="#50c4d9" />
+                  <path
+                     aria-label="Chicago Community Area: riverdale; Rate (%): 20.925"
+                     role="graphics-symbol"
+                     aria-roledescription="bar"
+                     d="m 1481,143.0625 h 18 V 300 h -18 z"
+                     id="path251"
+                     fill="#50c4d9" />
+                  <path
+                     aria-label="Chicago Community Area: rogers park; Rate (%): 15.8833333333"
+                     role="graphics-symbol"
+                     aria-roledescription="bar"
+                     d="m 661,180.875 h 18 V 300 h -18 z"
+                     id="path252"
+                     fill="#50c4d9" />
+                  <path
+                     aria-label="Chicago Community Area: roseland; Rate (%): 19.9833333333"
+                     role="graphics-symbol"
+                     aria-roledescription="bar"
+                     d="m 1261,150.125 h 18 V 300 h -18 z"
+                     id="path253"
+                     fill="#50c4d9" />
+                  <path
+                     aria-label="Chicago Community Area: south chicago; Rate (%): 26.3142857143"
+                     role="graphics-symbol"
+                     aria-roledescription="bar"
+                     d="m 1421,102.64286 h 18 V 300 h -18 z"
+                     id="path254"
+                     fill="#50c4d9" />
+                  <path
+                     aria-label="Chicago Community Area: south deering; Rate (%): 15.4666666667"
+                     role="graphics-symbol"
+                     aria-roledescription="bar"
+                     d="m 961,184 h 18 v 116 h -18 z"
+                     id="path255"
+                     fill="#50c4d9" />
+                  <path
+                     aria-label="Chicago Community Area: south lawndale; Rate (%): 10.05"
+                     role="graphics-symbol"
+                     aria-roledescription="bar"
+                     d="m 601,224.625 h 18 V 300 h -18 z"
+                     id="path256"
+                     fill="#50c4d9" />
+                  <path
+                     aria-label="Chicago Community Area: south shore; Rate (%): 22"
+                     role="graphics-symbol"
+                     aria-roledescription="bar"
+                     d="m 1521,135 h 18 v 165 h -18 z"
+                     id="path257"
+                     fill="#50c4d9" />
+                  <path
+                     aria-label="Chicago Community Area: uptown; Rate (%): 16.2333333333"
+                     role="graphics-symbol"
+                     aria-roledescription="bar"
+                     d="m 301,178.25 h 18 V 300 h -18 z"
+                     id="path258"
+                     fill="#50c4d9" />
+                  <path
+                     aria-label="Chicago Community Area: washington heights; Rate (%): 15.5333333333"
+                     role="graphics-symbol"
+                     aria-roledescription="bar"
+                     d="m 1181,183.5 h 18 V 300 h -18 z"
+                     id="path259"
+                     fill="#50c4d9" />
+                  <path
+                     aria-label="Chicago Community Area: washington park; Rate (%): 21.7666666667"
+                     role="graphics-symbol"
+                     aria-roledescription="bar"
+                     d="m 1401,136.75 h 18 V 300 h -18 z"
+                     id="path260"
+                     fill="#50c4d9" />
+                  <path
+                     aria-label="Chicago Community Area: west elsdon; Rate (%): 8.2"
+                     role="graphics-symbol"
+                     aria-roledescription="bar"
+                     d="m 761,238.5 h 18 V 300 h -18 z"
+                     id="path261"
+                     fill="#50c4d9" />
+                  <path
+                     aria-label="Chicago Community Area: west englewood; Rate (%): 21.9"
+                     role="graphics-symbol"
+                     aria-roledescription="bar"
+                     d="m 1241,135.75 h 18 V 300 h -18 z"
+                     id="path262"
+                     fill="#50c4d9" />
+                  <path
+                     aria-label="Chicago Community Area: west garfield park; Rate (%): 18.14"
+                     role="graphics-symbol"
+                     aria-roledescription="bar"
+                     d="m 1361,163.95 h 18 V 300 h -18 z"
+                     id="path263"
+                     fill="#50c4d9" />
+                  <path
+                     aria-label="Chicago Community Area: west lawn; Rate (%): 7.375"
+                     role="graphics-symbol"
+                     aria-roledescription="bar"
+                     d="m 801,244.6875 h 18 V 300 h -18 z"
+                     id="path264"
+                     fill="#50c4d9" />
+                  <path
+                     aria-label="Chicago Community Area: west pullman; Rate (%): 17.9285714286"
+                     role="graphics-symbol"
+                     aria-roledescription="bar"
+                     d="m 1461,165.53571 h 18 V 300 h -18 z"
+                     id="path265"
+                     fill="#50c4d9" />
+                  <path
+                     aria-label="Chicago Community Area: west ridge; Rate (%): 10.3222222222"
+                     role="graphics-symbol"
+                     aria-roledescription="bar"
+                     d="m 581,222.58333 h 18 V 300 h -18 z"
+                     id="path266"
+                     fill="#50c4d9" />
+                  <path
+                     aria-label="Chicago Community Area: west town; Rate (%): 8.38666666667"
+                     role="graphics-symbol"
+                     aria-roledescription="bar"
+                     d="m 101,237.1 h 18 V 300 h -18 z"
+                     id="path267"
+                     fill="#50c4d9" />
+                  <path
+                     aria-label="Chicago Community Area: woodlawn; Rate (%): 24.16"
+                     role="graphics-symbol"
+                     aria-roledescription="bar"
+                     d="m 1161,118.8 h 18 V 300 h -18 z"
+                     id="path268"
+                     fill="#50c4d9" />
+                </g>
+                <g
+                   class="mark-symbol role-mark concat_0_layer_1_marks"
+                   role="graphics-object"
+                   aria-roledescription="symbol mark container"
+                   id="g345">
+                  <path
+                     aria-label="Chicago Community Area: albany park; eviction_filings_rate: 1.71"
+                     role="graphics-symbol"
+                     aria-roledescription="circle"
+                     transform="translate(390,287.175)"
+                     d="M 4.472,0 A 4.472,4.472 0 1 1 -4.472,0 4.472,4.472 0 1 1 4.472,0"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path269"
+                     fill="#1d48c0" />
+                  <path
+                     aria-label="Chicago Community Area: archer heights; eviction_filings_rate: 1.985"
+                     role="graphics-symbol"
+                     aria-roledescription="circle"
+                     transform="translate(450,285.1125)"
+                     d="M 4.472,0 A 4.472,4.472 0 1 1 -4.472,0 4.472,4.472 0 1 1 4.472,0"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path270"
+                     fill="#1d48c0" />
+                  <path
+                     aria-label="Chicago Community Area: armour square; eviction_filings_rate: 0.53"
+                     role="graphics-symbol"
+                     aria-roledescription="circle"
+                     transform="translate(30,296.025)"
+                     d="M 4.472,0 A 4.472,4.472 0 1 1 -4.472,0 4.472,4.472 0 1 1 4.472,0"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path271"
+                     fill="#1d48c0" />
+                  <path
+                     aria-label="Chicago Community Area: ashburn; eviction_filings_rate: 4.32"
+                     role="graphics-symbol"
+                     aria-roledescription="circle"
+                     transform="translate(1010,267.6)"
+                     d="M 4.472,0 A 4.472,4.472 0 1 1 -4.472,0 4.472,4.472 0 1 1 4.472,0"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path272"
+                     fill="#1d48c0" />
+                  <path
+                     aria-label="Chicago Community Area: auburn gresham; eviction_filings_rate: 6.165"
+                     role="graphics-symbol"
+                     aria-roledescription="circle"
+                     transform="translate(1330,253.7625)"
+                     d="M 4.472,0 A 4.472,4.472 0 1 1 -4.472,0 4.472,4.472 0 1 1 4.472,0"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path273"
+                     fill="#1d48c0" />
+                  <path
+                     aria-label="Chicago Community Area: austin; eviction_filings_rate: 6.125"
+                     role="graphics-symbol"
+                     aria-roledescription="circle"
+                     transform="translate(1310,254.0625)"
+                     d="M 4.472,0 A 4.472,4.472 0 1 1 -4.472,0 4.472,4.472 0 1 1 4.472,0"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path274"
+                     fill="#1d48c0" />
+                  <path
+                     aria-label="Chicago Community Area: avalon park; eviction_filings_rate: 5.245"
+                     role="graphics-symbol"
+                     aria-roledescription="circle"
+                     transform="translate(1150,260.6625)"
+                     d="M 4.472,0 A 4.472,4.472 0 1 1 -4.472,0 4.472,4.472 0 1 1 4.472,0"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path275"
+                     fill="#1d48c0" />
+                  <path
+                     aria-label="Chicago Community Area: avondale; eviction_filings_rate: 1.375"
+                     role="graphics-symbol"
+                     aria-roledescription="circle"
+                     transform="translate(250,289.6875)"
+                     d="M 4.472,0 A 4.472,4.472 0 1 1 -4.472,0 4.472,4.472 0 1 1 4.472,0"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path276"
+                     fill="#1d48c0" />
+                  <path
+                     aria-label="Chicago Community Area: belmont cragin; eviction_filings_rate: 2.22"
+                     role="graphics-symbol"
+                     aria-roledescription="circle"
+                     transform="translate(570,283.35)"
+                     d="M 4.472,0 A 4.472,4.472 0 1 1 -4.472,0 4.472,4.472 0 1 1 4.472,0"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path277"
+                     fill="#1d48c0" />
+                  <path
+                     aria-label="Chicago Community Area: beverly; eviction_filings_rate: 3.78"
+                     role="graphics-symbol"
+                     aria-roledescription="circle"
+                     transform="translate(930,271.65)"
+                     d="M 4.472,0 A 4.472,4.472 0 1 1 -4.472,0 4.472,4.472 0 1 1 4.472,0"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path278"
+                     fill="#1d48c0" />
+                  <path
+                     aria-label="Chicago Community Area: bridgeport; eviction_filings_rate: 1.135"
+                     role="graphics-symbol"
+                     aria-roledescription="circle"
+                     transform="translate(170,291.4875)"
+                     d="M 4.472,0 A 4.472,4.472 0 1 1 -4.472,0 4.472,4.472 0 1 1 4.472,0"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path279"
+                     fill="#1d48c0" />
+                  <path
+                     aria-label="Chicago Community Area: brighton park; eviction_filings_rate: 2.475"
+                     role="graphics-symbol"
+                     aria-roledescription="circle"
+                     transform="translate(690,281.4375)"
+                     d="M 4.472,0 A 4.472,4.472 0 1 1 -4.472,0 4.472,4.472 0 1 1 4.472,0"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path280"
+                     fill="#1d48c0" />
+                  <path
+                     aria-label="Chicago Community Area: burnside; eviction_filings_rate: 3.12"
+                     role="graphics-symbol"
+                     aria-roledescription="circle"
+                     transform="translate(790,276.6)"
+                     d="M 4.472,0 A 4.472,4.472 0 1 1 -4.472,0 4.472,4.472 0 1 1 4.472,0"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path281"
+                     fill="#1d48c0" />
+                  <path
+                     aria-label="Chicago Community Area: calumet heights; eviction_filings_rate: 4.49"
+                     role="graphics-symbol"
+                     aria-roledescription="circle"
+                     transform="translate(1030,266.325)"
+                     d="M 4.472,0 A 4.472,4.472 0 1 1 -4.472,0 4.472,4.472 0 1 1 4.472,0"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path282"
+                     fill="#1d48c0" />
+                  <path
+                     aria-label="Chicago Community Area: chatham; eviction_filings_rate: 7.4"
+                     role="graphics-symbol"
+                     aria-roledescription="circle"
+                     transform="translate(1510,244.5)"
+                     d="M 4.472,0 A 4.472,4.472 0 1 1 -4.472,0 4.472,4.472 0 1 1 4.472,0"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path283"
+                     fill="#1d48c0" />
+                  <path
+                     aria-label="Chicago Community Area: chicago lawn; eviction_filings_rate: 5.025"
+                     role="graphics-symbol"
+                     aria-roledescription="circle"
+                     transform="translate(1130,262.3125)"
+                     d="M 4.472,0 A 4.472,4.472 0 1 1 -4.472,0 4.472,4.472 0 1 1 4.472,0"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path284"
+                     fill="#1d48c0" />
+                  <path
+                     aria-label="Chicago Community Area: clearing; eviction_filings_rate: 2.345"
+                     role="graphics-symbol"
+                     aria-roledescription="circle"
+                     transform="translate(630,282.4125)"
+                     d="M 4.472,0 A 4.472,4.472 0 1 1 -4.472,0 4.472,4.472 0 1 1 4.472,0"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path285"
+                     fill="#1d48c0" />
+                  <path
+                     aria-label="Chicago Community Area: douglas; eviction_filings_rate: 3.735"
+                     role="graphics-symbol"
+                     aria-roledescription="circle"
+                     transform="translate(910,271.9875)"
+                     d="M 4.472,0 A 4.472,4.472 0 1 1 -4.472,0 4.472,4.472 0 1 1 4.472,0"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path286"
+                     fill="#1d48c0" />
+                  <path
+                     aria-label="Chicago Community Area: dunning; eviction_filings_rate: 2.17"
+                     role="graphics-symbol"
+                     aria-roledescription="circle"
+                     transform="translate(550,283.725)"
+                     d="M 4.472,0 A 4.472,4.472 0 1 1 -4.472,0 4.472,4.472 0 1 1 4.472,0"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path287"
+                     fill="#1d48c0" />
+                  <path
+                     aria-label="Chicago Community Area: east garfield park; eviction_filings_rate: 5.01"
+                     role="graphics-symbol"
+                     aria-roledescription="circle"
+                     transform="translate(1110,262.425)"
+                     d="M 4.472,0 A 4.472,4.472 0 1 1 -4.472,0 4.472,4.472 0 1 1 4.472,0"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path288"
+                     fill="#1d48c0" />
+                  <path
+                     aria-label="Chicago Community Area: east side; eviction_filings_rate: 2.505"
+                     role="graphics-symbol"
+                     aria-roledescription="circle"
+                     transform="translate(710,281.2125)"
+                     d="M 4.472,0 A 4.472,4.472 0 1 1 -4.472,0 4.472,4.472 0 1 1 4.472,0"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path289"
+                     fill="#1d48c0" />
+                  <path
+                     aria-label="Chicago Community Area: edgewater; eviction_filings_rate: 1.87"
+                     role="graphics-symbol"
+                     aria-roledescription="circle"
+                     transform="translate(430,285.975)"
+                     d="M 4.472,0 A 4.472,4.472 0 1 1 -4.472,0 4.472,4.472 0 1 1 4.472,0"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path290"
+                     fill="#1d48c0" />
+                  <path
+                     aria-label="Chicago Community Area: edison park; eviction_filings_rate: 1.09"
+                     role="graphics-symbol"
+                     aria-roledescription="circle"
+                     transform="translate(150,291.825)"
+                     d="M 4.472,0 A 4.472,4.472 0 1 1 -4.472,0 4.472,4.472 0 1 1 4.472,0"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path291"
+                     fill="#1d48c0" />
+                  <path
+                     aria-label="Chicago Community Area: englewood; eviction_filings_rate: 6.25"
+                     role="graphics-symbol"
+                     aria-roledescription="circle"
+                     transform="translate(1350,253.125)"
+                     d="M 4.472,0 A 4.472,4.472 0 1 1 -4.472,0 4.472,4.472 0 1 1 4.472,0"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path292"
+                     fill="#1d48c0" />
+                  <path
+                     aria-label="Chicago Community Area: forest glen; eviction_filings_rate: 2.37"
+                     role="graphics-symbol"
+                     aria-roledescription="circle"
+                     transform="translate(650,282.225)"
+                     d="M 4.472,0 A 4.472,4.472 0 1 1 -4.472,0 4.472,4.472 0 1 1 4.472,0"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path293"
+                     fill="#1d48c0" />
+                  <path
+                     aria-label="Chicago Community Area: fuller park; eviction_filings_rate: 3.795"
+                     role="graphics-symbol"
+                     aria-roledescription="circle"
+                     transform="translate(950,271.5375)"
+                     d="M 4.472,0 A 4.472,4.472 0 1 1 -4.472,0 4.472,4.472 0 1 1 4.472,0"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path294"
+                     fill="#1d48c0" />
+                  <path
+                     aria-label="Chicago Community Area: gage park; eviction_filings_rate: 2.605"
+                     role="graphics-symbol"
+                     aria-roledescription="circle"
+                     transform="translate(730,280.4625)"
+                     d="M 4.472,0 A 4.472,4.472 0 1 1 -4.472,0 4.472,4.472 0 1 1 4.472,0"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path295"
+                     fill="#1d48c0" />
+                  <path
+                     aria-label="Chicago Community Area: garfield ridge; eviction_filings_rate: 2.08"
+                     role="graphics-symbol"
+                     aria-roledescription="circle"
+                     transform="translate(510,284.4)"
+                     d="M 4.472,0 A 4.472,4.472 0 1 1 -4.472,0 4.472,4.472 0 1 1 4.472,0"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path296"
+                     fill="#1d48c0" />
+                  <path
+                     aria-label="Chicago Community Area: grand boulevard; eviction_filings_rate: 4.755"
+                     role="graphics-symbol"
+                     aria-roledescription="circle"
+                     transform="translate(1090,264.3375)"
+                     d="M 4.472,0 A 4.472,4.472 0 1 1 -4.472,0 4.472,4.472 0 1 1 4.472,0"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path297"
+                     fill="#1d48c0" />
+                  <path
+                     aria-label="Chicago Community Area: greater grand crossing; eviction_filings_rate: 6.525"
+                     role="graphics-symbol"
+                     aria-roledescription="circle"
+                     transform="translate(1390,251.0625)"
+                     d="M 4.472,0 A 4.472,4.472 0 1 1 -4.472,0 4.472,4.472 0 1 1 4.472,0"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path298"
+                     fill="#1d48c0" />
+                  <path
+                     aria-label="Chicago Community Area: hegewisch; eviction_filings_rate: 5.635"
+                     role="graphics-symbol"
+                     aria-roledescription="circle"
+                     transform="translate(1210,257.7375)"
+                     d="M 4.472,0 A 4.472,4.472 0 1 1 -4.472,0 4.472,4.472 0 1 1 4.472,0"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path299"
+                     fill="#1d48c0" />
+                  <path
+                     aria-label="Chicago Community Area: hermosa; eviction_filings_rate: 2.165"
+                     role="graphics-symbol"
+                     aria-roledescription="circle"
+                     transform="translate(530,283.7625)"
+                     d="M 4.472,0 A 4.472,4.472 0 1 1 -4.472,0 4.472,4.472 0 1 1 4.472,0"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path300"
+                     fill="#1d48c0" />
+                  <path
+                     aria-label="Chicago Community Area: humboldt park; eviction_filings_rate: 3.625"
+                     role="graphics-symbol"
+                     aria-roledescription="circle"
+                     transform="translate(850,272.8125)"
+                     d="M 4.472,0 A 4.472,4.472 0 1 1 -4.472,0 4.472,4.472 0 1 1 4.472,0"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path301"
+                     fill="#1d48c0" />
+                  <path
+                     aria-label="Chicago Community Area: hyde park; eviction_filings_rate: 2.74"
+                     role="graphics-symbol"
+                     aria-roledescription="circle"
+                     transform="translate(750,279.45)"
+                     d="M 4.472,0 A 4.472,4.472 0 1 1 -4.472,0 4.472,4.472 0 1 1 4.472,0"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path302"
+                     fill="#1d48c0" />
+                  <path
+                     aria-label="Chicago Community Area: irving park; eviction_filings_rate: 1.675"
+                     role="graphics-symbol"
+                     aria-roledescription="circle"
+                     transform="translate(370,287.4375)"
+                     d="M 4.472,0 A 4.472,4.472 0 1 1 -4.472,0 4.472,4.472 0 1 1 4.472,0"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path303"
+                     fill="#1d48c0" />
+                  <path
+                     aria-label="Chicago Community Area: jefferson park; eviction_filings_rate: 1.225"
+                     role="graphics-symbol"
+                     aria-roledescription="circle"
+                     transform="translate(230,290.8125)"
+                     d="M 4.472,0 A 4.472,4.472 0 1 1 -4.472,0 4.472,4.472 0 1 1 4.472,0"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path304"
+                     fill="#1d48c0" />
+                  <path
+                     aria-label="Chicago Community Area: kenwood; eviction_filings_rate: 4.675"
+                     role="graphics-symbol"
+                     aria-roledescription="circle"
+                     transform="translate(1070,264.9375)"
+                     d="M 4.472,0 A 4.472,4.472 0 1 1 -4.472,0 4.472,4.472 0 1 1 4.472,0"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path305"
+                     fill="#1d48c0" />
+                  <path
+                     aria-label="Chicago Community Area: lake view; eviction_filings_rate: 0.71"
+                     role="graphics-symbol"
+                     aria-roledescription="circle"
+                     transform="translate(70,294.675)"
+                     d="M 4.472,0 A 4.472,4.472 0 1 1 -4.472,0 4.472,4.472 0 1 1 4.472,0"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path306"
+                     fill="#1d48c0" />
+                  <path
+                     aria-label="Chicago Community Area: lincoln park; eviction_filings_rate: 0.64"
+                     role="graphics-symbol"
+                     aria-roledescription="circle"
+                     transform="translate(50,295.2)"
+                     d="M 4.472,0 A 4.472,4.472 0 1 1 -4.472,0 4.472,4.472 0 1 1 4.472,0"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path307"
+                     fill="#1d48c0" />
+                  <path
+                     aria-label="Chicago Community Area: lincoln square; eviction_filings_rate: 0.835"
+                     role="graphics-symbol"
+                     aria-roledescription="circle"
+                     transform="translate(90,293.7375)"
+                     d="M 4.472,0 A 4.472,4.472 0 1 1 -4.472,0 4.472,4.472 0 1 1 4.472,0"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path308"
+                     fill="#1d48c0" />
+                  <path
+                     aria-label="Chicago Community Area: logan square; eviction_filings_rate: 1.045"
+                     role="graphics-symbol"
+                     aria-roledescription="circle"
+                     transform="translate(130,292.1625)"
+                     d="M 4.472,0 A 4.472,4.472 0 1 1 -4.472,0 4.472,4.472 0 1 1 4.472,0"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path309"
+                     fill="#1d48c0" />
+                  <path
+                     aria-label="Chicago Community Area: loop; eviction_filings_rate: 1.855"
+                     role="graphics-symbol"
+                     aria-roledescription="circle"
+                     transform="translate(410,286.0875)"
+                     d="M 4.472,0 A 4.472,4.472 0 1 1 -4.472,0 4.472,4.472 0 1 1 4.472,0"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path310"
+                     fill="#1d48c0" />
+                  <path
+                     aria-label="Chicago Community Area: lower west side; eviction_filings_rate: 1.45"
+                     role="graphics-symbol"
+                     aria-roledescription="circle"
+                     transform="translate(270,289.125)"
+                     d="M 4.472,0 A 4.472,4.472 0 1 1 -4.472,0 4.472,4.472 0 1 1 4.472,0"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path311"
+                     fill="#1d48c0" />
+                  <path
+                     aria-label="Chicago Community Area: mckinley park; eviction_filings_rate: 2.04"
+                     role="graphics-symbol"
+                     aria-roledescription="circle"
+                     transform="translate(470,284.7)"
+                     d="M 4.472,0 A 4.472,4.472 0 1 1 -4.472,0 4.472,4.472 0 1 1 4.472,0"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path312"
+                     fill="#1d48c0" />
+                  <path
+                     aria-label="Chicago Community Area: montclare; eviction_filings_rate: 3.615"
+                     role="graphics-symbol"
+                     aria-roledescription="circle"
+                     transform="translate(830,272.8875)"
+                     d="M 4.472,0 A 4.472,4.472 0 1 1 -4.472,0 4.472,4.472 0 1 1 4.472,0"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path313"
+                     fill="#1d48c0" />
+                  <path
+                     aria-label="Chicago Community Area: morgan park; eviction_filings_rate: 4.05"
+                     role="graphics-symbol"
+                     aria-roledescription="circle"
+                     transform="translate(990,269.625)"
+                     d="M 4.472,0 A 4.472,4.472 0 1 1 -4.472,0 4.472,4.472 0 1 1 4.472,0"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path314"
+                     fill="#1d48c0" />
+                  <path
+                     aria-label="Chicago Community Area: mount greenwood; eviction_filings_rate: 6.01"
+                     role="graphics-symbol"
+                     aria-roledescription="circle"
+                     transform="translate(1290,254.925)"
+                     d="M 4.472,0 A 4.472,4.472 0 1 1 -4.472,0 4.472,4.472 0 1 1 4.472,0"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path315"
+                     fill="#1d48c0" />
+                  <path
+                     aria-label="Chicago Community Area: near north side; eviction_filings_rate: 1.645"
+                     role="graphics-symbol"
+                     aria-roledescription="circle"
+                     transform="translate(350,287.6625)"
+                     d="M 4.472,0 A 4.472,4.472 0 1 1 -4.472,0 4.472,4.472 0 1 1 4.472,0"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path316"
+                     fill="#1d48c0" />
+                  <path
+                     aria-label="Chicago Community Area: near south side; eviction_filings_rate: 3.735"
+                     role="graphics-symbol"
+                     aria-roledescription="circle"
+                     transform="translate(890,271.9875)"
+                     d="M 4.472,0 A 4.472,4.472 0 1 1 -4.472,0 4.472,4.472 0 1 1 4.472,0"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path317"
+                     fill="#1d48c0" />
+                  <path
+                     aria-label="Chicago Community Area: near west side; eviction_filings_rate: 1.625"
+                     role="graphics-symbol"
+                     aria-roledescription="circle"
+                     transform="translate(330,287.8125)"
+                     d="M 4.472,0 A 4.472,4.472 0 1 1 -4.472,0 4.472,4.472 0 1 1 4.472,0"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path318"
+                     fill="#1d48c0" />
+                  <path
+                     aria-label="Chicago Community Area: new city; eviction_filings_rate: 3.645"
+                     role="graphics-symbol"
+                     aria-roledescription="circle"
+                     transform="translate(870,272.6625)"
+                     d="M 4.472,0 A 4.472,4.472 0 1 1 -4.472,0 4.472,4.472 0 1 1 4.472,0"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path319"
+                     fill="#1d48c0" />
+                  <path
+                     aria-label="Chicago Community Area: north center; eviction_filings_rate: 0.44"
+                     role="graphics-symbol"
+                     aria-roledescription="circle"
+                     transform="translate(10,296.7)"
+                     d="M 4.472,0 A 4.472,4.472 0 1 1 -4.472,0 4.472,4.472 0 1 1 4.472,0"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path320"
+                     fill="#1d48c0" />
+                  <path
+                     aria-label="Chicago Community Area: north lawndale; eviction_filings_rate: 5.66"
+                     role="graphics-symbol"
+                     aria-roledescription="circle"
+                     transform="translate(1230,257.55)"
+                     d="M 4.472,0 A 4.472,4.472 0 1 1 -4.472,0 4.472,4.472 0 1 1 4.472,0"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path321"
+                     fill="#1d48c0" />
+                  <path
+                     aria-label="Chicago Community Area: north park; eviction_filings_rate: 1.2"
+                     role="graphics-symbol"
+                     aria-roledescription="circle"
+                     transform="translate(210,291)"
+                     d="M 4.472,0 A 4.472,4.472 0 1 1 -4.472,0 4.472,4.472 0 1 1 4.472,0"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path322"
+                     fill="#1d48c0" />
+                  <path
+                     aria-label="Chicago Community Area: norwood park; eviction_filings_rate: 1.175"
+                     role="graphics-symbol"
+                     aria-roledescription="circle"
+                     transform="translate(190,291.1875)"
+                     d="M 4.472,0 A 4.472,4.472 0 1 1 -4.472,0 4.472,4.472 0 1 1 4.472,0"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path323"
+                     fill="#1d48c0" />
+                  <path
+                     aria-label="Chicago Community Area: o'hare; eviction_filings_rate: 1.49"
+                     role="graphics-symbol"
+                     aria-roledescription="circle"
+                     transform="translate(290,288.825)"
+                     d="M 4.472,0 A 4.472,4.472 0 1 1 -4.472,0 4.472,4.472 0 1 1 4.472,0"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path324"
+                     fill="#1d48c0" />
+                  <path
+                     aria-label="Chicago Community Area: oakland; eviction_filings_rate: 6.985"
+                     role="graphics-symbol"
+                     aria-roledescription="circle"
+                     transform="translate(1450,247.6125)"
+                     d="M 4.472,0 A 4.472,4.472 0 1 1 -4.472,0 4.472,4.472 0 1 1 4.472,0"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path325"
+                     fill="#1d48c0" />
+                  <path
+                     aria-label="Chicago Community Area: portage park; eviction_filings_rate: 2.045"
+                     role="graphics-symbol"
+                     aria-roledescription="circle"
+                     transform="translate(490,284.6625)"
+                     d="M 4.472,0 A 4.472,4.472 0 1 1 -4.472,0 4.472,4.472 0 1 1 4.472,0"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path326"
+                     fill="#1d48c0" />
+                  <path
+                     aria-label="Chicago Community Area: pullman; eviction_filings_rate: 4.5"
+                     role="graphics-symbol"
+                     aria-roledescription="circle"
+                     transform="translate(1050,266.25)"
+                     d="M 4.472,0 A 4.472,4.472 0 1 1 -4.472,0 4.472,4.472 0 1 1 4.472,0"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path327"
+                     fill="#1d48c0" />
+                  <path
+                     aria-label="Chicago Community Area: riverdale; eviction_filings_rate: 7.16"
+                     role="graphics-symbol"
+                     aria-roledescription="circle"
+                     transform="translate(1490,246.3)"
+                     d="M 4.472,0 A 4.472,4.472 0 1 1 -4.472,0 4.472,4.472 0 1 1 4.472,0"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path328"
+                     fill="#1d48c0" />
+                  <path
+                     aria-label="Chicago Community Area: rogers park; eviction_filings_rate: 2.39"
+                     role="graphics-symbol"
+                     aria-roledescription="circle"
+                     transform="translate(670,282.075)"
+                     d="M 4.472,0 A 4.472,4.472 0 1 1 -4.472,0 4.472,4.472 0 1 1 4.472,0"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path329"
+                     fill="#1d48c0" />
+                  <path
+                     aria-label="Chicago Community Area: roseland; eviction_filings_rate: 5.95"
+                     role="graphics-symbol"
+                     aria-roledescription="circle"
+                     transform="translate(1270,255.375)"
+                     d="M 4.472,0 A 4.472,4.472 0 1 1 -4.472,0 4.472,4.472 0 1 1 4.472,0"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path330"
+                     fill="#1d48c0" />
+                  <path
+                     aria-label="Chicago Community Area: south chicago; eviction_filings_rate: 6.895"
+                     role="graphics-symbol"
+                     aria-roledescription="circle"
+                     transform="translate(1430,248.2875)"
+                     d="M 4.472,0 A 4.472,4.472 0 1 1 -4.472,0 4.472,4.472 0 1 1 4.472,0"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path331"
+                     fill="#1d48c0" />
+                  <path
+                     aria-label="Chicago Community Area: south deering; eviction_filings_rate: 3.805"
+                     role="graphics-symbol"
+                     aria-roledescription="circle"
+                     transform="translate(970,271.4625)"
+                     d="M 4.472,0 A 4.472,4.472 0 1 1 -4.472,0 4.472,4.472 0 1 1 4.472,0"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path332"
+                     fill="#1d48c0" />
+                  <path
+                     aria-label="Chicago Community Area: south lawndale; eviction_filings_rate: 2.24"
+                     role="graphics-symbol"
+                     aria-roledescription="circle"
+                     transform="translate(610,283.2)"
+                     d="M 4.472,0 A 4.472,4.472 0 1 1 -4.472,0 4.472,4.472 0 1 1 4.472,0"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path333"
+                     fill="#1d48c0" />
+                  <path
+                     aria-label="Chicago Community Area: south shore; eviction_filings_rate: 8.32"
+                     role="graphics-symbol"
+                     aria-roledescription="circle"
+                     transform="translate(1530,237.6)"
+                     d="M 4.472,0 A 4.472,4.472 0 1 1 -4.472,0 4.472,4.472 0 1 1 4.472,0"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path334"
+                     fill="#1d48c0" />
+                  <path
+                     aria-label="Chicago Community Area: uptown; eviction_filings_rate: 1.62"
+                     role="graphics-symbol"
+                     aria-roledescription="circle"
+                     transform="translate(310,287.85)"
+                     d="M 4.472,0 A 4.472,4.472 0 1 1 -4.472,0 4.472,4.472 0 1 1 4.472,0"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path335"
+                     fill="#1d48c0" />
+                  <path
+                     aria-label="Chicago Community Area: washington heights; eviction_filings_rate: 5.495"
+                     role="graphics-symbol"
+                     aria-roledescription="circle"
+                     transform="translate(1190,258.7875)"
+                     d="M 4.472,0 A 4.472,4.472 0 1 1 -4.472,0 4.472,4.472 0 1 1 4.472,0"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path336"
+                     fill="#1d48c0" />
+                  <path
+                     aria-label="Chicago Community Area: washington park; eviction_filings_rate: 6.68"
+                     role="graphics-symbol"
+                     aria-roledescription="circle"
+                     transform="translate(1410,249.9)"
+                     d="M 4.472,0 A 4.472,4.472 0 1 1 -4.472,0 4.472,4.472 0 1 1 4.472,0"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path337"
+                     fill="#1d48c0" />
+                  <path
+                     aria-label="Chicago Community Area: west elsdon; eviction_filings_rate: 2.915"
+                     role="graphics-symbol"
+                     aria-roledescription="circle"
+                     transform="translate(770,278.1375)"
+                     d="M 4.472,0 A 4.472,4.472 0 1 1 -4.472,0 4.472,4.472 0 1 1 4.472,0"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path338"
+                     fill="#1d48c0" />
+                  <path
+                     aria-label="Chicago Community Area: west englewood; eviction_filings_rate: 5.9"
+                     role="graphics-symbol"
+                     aria-roledescription="circle"
+                     transform="translate(1250,255.75)"
+                     d="M 4.472,0 A 4.472,4.472 0 1 1 -4.472,0 4.472,4.472 0 1 1 4.472,0"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path339"
+                     fill="#1d48c0" />
+                  <path
+                     aria-label="Chicago Community Area: west garfield park; eviction_filings_rate: 6.39"
+                     role="graphics-symbol"
+                     aria-roledescription="circle"
+                     transform="translate(1370,252.075)"
+                     d="M 4.472,0 A 4.472,4.472 0 1 1 -4.472,0 4.472,4.472 0 1 1 4.472,0"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path340"
+                     fill="#1d48c0" />
+                  <path
+                     aria-label="Chicago Community Area: west lawn; eviction_filings_rate: 3.31"
+                     role="graphics-symbol"
+                     aria-roledescription="circle"
+                     transform="translate(810,275.175)"
+                     d="M 4.472,0 A 4.472,4.472 0 1 1 -4.472,0 4.472,4.472 0 1 1 4.472,0"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path341"
+                     fill="#1d48c0" />
+                  <path
+                     aria-label="Chicago Community Area: west pullman; eviction_filings_rate: 7"
+                     role="graphics-symbol"
+                     aria-roledescription="circle"
+                     transform="translate(1470,247.5)"
+                     d="M 4.472,0 A 4.472,4.472 0 1 1 -4.472,0 4.472,4.472 0 1 1 4.472,0"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path342"
+                     fill="#1d48c0" />
+                  <path
+                     aria-label="Chicago Community Area: west ridge; eviction_filings_rate: 2.22"
+                     role="graphics-symbol"
+                     aria-roledescription="circle"
+                     transform="translate(590,283.35)"
+                     d="M 4.472,0 A 4.472,4.472 0 1 1 -4.472,0 4.472,4.472 0 1 1 4.472,0"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path343"
+                     fill="#1d48c0" />
+                  <path
+                     aria-label="Chicago Community Area: west town; eviction_filings_rate: 0.955"
+                     role="graphics-symbol"
+                     aria-roledescription="circle"
+                     transform="translate(110,292.8375)"
+                     d="M 4.472,0 A 4.472,4.472 0 1 1 -4.472,0 4.472,4.472 0 1 1 4.472,0"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path344"
+                     fill="#1d48c0" />
+                  <path
+                     aria-label="Chicago Community Area: woodlawn; eviction_filings_rate: 5.365"
+                     role="graphics-symbol"
+                     aria-roledescription="circle"
+                     transform="translate(1170,259.7625)"
+                     d="M 4.472,0 A 4.472,4.472 0 1 1 -4.472,0 4.472,4.472 0 1 1 4.472,0"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path345"
+                     fill="#1d48c0" />
+                </g>
+                <g
+                   class="mark-group role-title"
+                   id="g349">
+                  <g
+                     transform="translate(770,-22)"
+                     id="g348">
+                    <path
+                       class="background"
+                       aria-hidden="true"
+                       d="M 0,0 Z"
+                       pointer-events="none"
+                       id="path346" />
+                    <g
+                       id="g347">
+                      <g
+                         class="mark-text role-title-text"
+                         role="graphics-symbol"
+                         aria-roledescription="title"
+                         aria-label="Title text 'Student Mobility Rate vs Eviction Filings Rates by Community Area'"
+                         pointer-events="none"
+                         id="g346">
+                        <text
+                           text-anchor="middle"
+                           transform="translate(0,10)"
+                           font-family="sans-serif"
+                           font-size="13px"
+                           font-weight="bold"
+                           opacity="1"
+                           id="text346"
+                           fill="#000000">Student Mobility Rate vs Eviction Filings Rates by Community Area</text>
+                      </g>
+                    </g>
+                    <path
+                       class="foreground"
+                       aria-hidden="true"
+                       d=""
+                       pointer-events="none"
+                       display="none"
+                       id="path347" />
+                  </g>
+                </g>
+              </g>
+              <path
+                 class="foreground"
+                 aria-hidden="true"
+                 d=""
+                 display="none"
+                 id="path350" />
+            </g>
+          </g>
+          <g
+             class="mark-group role-scope concat_1_group"
+             role="graphics-object"
+             aria-roledescription="group mark container"
+             id="g357">
+            <g
+               transform="translate(0,444)"
+               id="g356">
+              <path
+                 class="background"
+                 aria-hidden="true"
+                 d="M 0,0 H 20 V 20 H 0 Z"
+                 id="path352" />
+              <g
+                 id="g355">
+                <g
+                   class="mark-symbol role-mark concat_1_marks"
+                   role="graphics-object"
+                   aria-roledescription="symbol mark container"
+                   id="g354">
+                  <path
+                     aria-label="Color: Mobility Rate (%)"
+                     role="graphics-symbol"
+                     aria-roledescription="circle"
+                     transform="translate(10,10)"
+                     d="M 4.472,0 A 4.472,4.472 0 1 1 -4.472,0 4.472,4.472 0 1 1 4.472,0"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path353"
+                     fill="#50c4d9" />
+                  <path
+                     aria-label="Color: Eviction Filings Rate (%)"
+                     role="graphics-symbol"
+                     aria-roledescription="circle"
+                     transform="translate(10,10)"
+                     d="M 4.472,0 A 4.472,4.472 0 1 1 -4.472,0 4.472,4.472 0 1 1 4.472,0"
+                     stroke-width="2"
+                     opacity="0.7"
+                     id="path354"
+                     fill="#1d48c0" />
+                </g>
+              </g>
+              <path
+                 class="foreground"
+                 aria-hidden="true"
+                 d=""
+                 display="none"
+                 id="path355" />
+            </g>
+          </g>
+          <g
+             class="mark-group role-legend"
+             role="graphics-symbol"
+             aria-roledescription="legend"
+             aria-label="Symbol legend titled 'Legend' for fill color with 2 values: Mobility Rate (%), Eviction Filings Rate (%)"
+             id="g375">
+            <g
+               transform="translate(1559)"
+               id="g374">
+              <path
+                 class="background"
+                 aria-hidden="true"
+                 d="M 0,0 H 125 V 40 H 0 Z"
+                 pointer-events="none"
+                 id="path357" />
+              <g
+                 id="g373">
+                <g
+                   class="mark-group role-legend-entry"
+                   id="g371">
+                  <g
+                     transform="translate(0,16)"
+                     id="g370">
+                    <path
+                       class="background"
+                       aria-hidden="true"
+                       d="M 0,0 Z"
+                       pointer-events="none"
+                       id="path358" />
+                    <g
+                       id="g369">
+                      <g
+                         class="mark-group role-scope"
+                         role="graphics-object"
+                         aria-roledescription="group mark container"
+                         id="g368">
+                        <g
+                           id="g363">
+                          <path
+                             class="background"
+                             aria-hidden="true"
+                             d="M 0,0 H 124.9209 V 11 H 0 Z"
+                             pointer-events="none"
+                             opacity="1"
+                             id="path359" />
+                          <g
+                             id="g362">
+                            <g
+                               class="mark-symbol role-legend-symbol"
+                               pointer-events="none"
+                               id="g360">
+                              <path
+                                 transform="translate(6,6)"
+                                 d="M 5,0 A 5,5 0 1 1 -5,0 5,5 0 1 1 5,0"
+                                 stroke-width="1.5"
+                                 opacity="0.7"
+                                 id="path360"
+                                 fill="#50c4d9" />
+                            </g>
+                            <g
+                               class="mark-text role-legend-label"
+                               pointer-events="none"
+                               id="g361">
+                              <text
+                                 text-anchor="start"
+                                 transform="translate(16,9)"
+                                 font-family="sans-serif"
+                                 font-size="10px"
+                                 opacity="1"
+                                 id="text360"
+                                 fill="#000000">Mobility Rate (%)</text>
+                            </g>
+                          </g>
+                          <path
+                             class="foreground"
+                             aria-hidden="true"
+                             d=""
+                             pointer-events="none"
+                             display="none"
+                             id="path362" />
+                        </g>
+                        <g
+                           transform="translate(0,13)"
+                           id="g367">
+                          <path
+                             class="background"
+                             aria-hidden="true"
+                             d="M 0,0 H 124.9209 V 11 H 0 Z"
+                             pointer-events="none"
+                             opacity="1"
+                             id="path363" />
+                          <g
+                             id="g366">
+                            <g
+                               class="mark-symbol role-legend-symbol"
+                               pointer-events="none"
+                               id="g364">
+                              <path
+                                 transform="translate(6,6)"
+                                 d="M 5,0 A 5,5 0 1 1 -5,0 5,5 0 1 1 5,0"
+                                 stroke-width="1.5"
+                                 opacity="0.7"
+                                 id="path364"
+                                 fill="#1d48c0" />
+                            </g>
+                            <g
+                               class="mark-text role-legend-label"
+                               pointer-events="none"
+                               id="g365">
+                              <text
+                                 text-anchor="start"
+                                 transform="translate(16,9)"
+                                 font-family="sans-serif"
+                                 font-size="10px"
+                                 opacity="1"
+                                 id="text364"
+                                 fill="#000000">Eviction Filings Rate (%)</text>
+                            </g>
+                          </g>
+                          <path
+                             class="foreground"
+                             aria-hidden="true"
+                             d=""
+                             pointer-events="none"
+                             display="none"
+                             id="path366" />
+                        </g>
+                      </g>
+                    </g>
+                    <path
+                       class="foreground"
+                       aria-hidden="true"
+                       d=""
+                       pointer-events="none"
+                       display="none"
+                       id="path369" />
+                  </g>
+                </g>
+                <g
+                   class="mark-text role-legend-title"
+                   pointer-events="none"
+                   id="g372">
+                  <text
+                     text-anchor="start"
+                     transform="translate(0,9)"
+                     font-family="sans-serif"
+                     font-size="11px"
+                     font-weight="bold"
+                     opacity="1"
+                     id="text371"
+                     fill="#000000">Legend</text>
+                </g>
+              </g>
+              <path
+                 class="foreground"
+                 aria-hidden="true"
+                 d=""
+                 pointer-events="none"
+                 display="none"
+                 id="path373" />
+            </g>
+          </g>
+        </g>
+        <path
+           class="foreground"
+           aria-hidden="true"
+           d=""
+           display="none"
+           id="path376" />
+      </g>
+    </g>
+  </g>
+  <path
+     style="fill:#e6e6e6;fill-opacity:1"
+     d="m 54.901961,456.86275 c 37.254902,13.72549 0,-5.88236 0,0 z"
+     id="path384" />
+  <path
+     style="fill:#e6e6e6;fill-opacity:1"
+     d="M 68.627451,460.78431 Z"
+     id="path385" />
+  <path
+     style="fill:#e6e6e6;fill-opacity:1"
+     id="path386"
+     d="m 73.72108,467.83932 c 2.937795,1.16705 5.977682,2.06875 9.007103,2.9675 3.403222,-1.70019 3.563161,-5.98598 3.954698,-9.34126 -0.02896,-1.88034 0.137534,-2.71622 -0.649473,-4.51818 -2.713507,-6.21296 -14.322104,-10.98172 -19.685404,-13.14881 -3.11872,-0.80176 -5.301327,-2.20067 -7.493166,0.78158 -1.029658,2.43868 -0.884821,5.18937 -0.884417,7.79013 -0.08684,3.12793 -0.04861,6.15281 1.049089,9.10794 1.154449,2.51997 3.295032,4.22157 5.421556,5.87975 0.400469,0.57477 1.540133,1.34874 0.959143,1.62192 -0.870322,0.55251 -1.923184,0.72009 -2.916855,0.93841 0,0 12.374177,8.51804 12.374177,8.51804 v 0 c 1.174519,-0.35096 2.368729,-0.70876 3.315776,-1.52863 1.347907,-1.45541 1.228363,-2.2338 0.123121,-3.77869 -1.556769,-2.08748 -4.510754,-2.92827 -5.688021,-5.42605 -1.425907,-2.6997 -1.445478,-5.54482 -1.32394,-8.54826 0.002,-2.28833 -0.14659,-4.67721 0.482084,-6.89576 1.374657,-1.67369 4.643327,0.43214 6.233741,0.77044 4.902341,2.36763 6.302634,3.10812 -8.764854,-5.39254 -0.671032,-0.37857 1.297885,0.84171 1.872895,1.35451 1.734243,1.54663 2.477538,3.26227 2.405576,5.57894 -0.192702,1.81452 -0.09698,7.09796 -2.665053,7.07381 -3.00795,-0.88205 -6.006171,-1.81983 -8.891167,-3.05506 z" />
+  <path
+     style="fill:#ffffff;fill-opacity:1"
+     id="path387"
+     d="m 85.26802,465.10217 c 0.129935,-3.98523 -1.448053,-7.29778 -4.515672,-9.76314 -4.964842,4.04739 -10.98057,-9.45272 -17.47404,-8.78864 -0.970172,0.0992 -1.1521,0.52477 -1.802367,1.17724 -1.577823,2.81965 -1.648666,6.0514 -0.593309,9.03367 6.407424,7.81241 14.945751,14.15393 24.34935,9.21871 4.00351,-2.2991 5.474729,-6.216 4.451559,-10.5958 -3.903528,-5.80326 -13.081823,-11.67741 -20.269206,-10.46362 -3.542454,1.35115 -4.466709,4.78961 -5.072198,8.18569 -0.967103,5.06869 3.185422,8.58855 6.806006,11.39585 4.881781,2.84516 9.732709,5.74393 14.645342,8.53548 3.668805,2.08475 5.732626,1.234 7.242503,-2.51265 0.119659,-1.93361 0.403165,-2.77988 -0.489121,-4.65937 -0.72274,-1.52236 -2.379295,-3.28802 -3.805741,-4.16071 -13.704652,-8.38433 -9.967307,-6.86751 -17.673745,-9.63942 -4.652363,-1.5313 -7.326934,-1.83593 -11.382138,1.03434 -2.694947,3.25821 -3.568759,7.02359 -2.571596,11.07444 0.934638,2.28542 2.509476,3.98928 4.666755,5.18908 7.49571,4.16887 11.176058,8.98564 18.487813,7.87067 0,0 -12.137503,-8.67078 -12.137503,-8.67078 v 0 c -5.911199,-0.0204 -9.831084,-4.67045 7.483265,6.14564 2.214742,1.38352 -7.003784,-3.56672 -5.064288,-4.19602 -1.363566,-3.4281 -0.672392,-6.53767 1.705142,-9.36937 3.369262,-2.11706 6.871988,-1.32898 10.441844,0.058 5.644814,2.4338 5.136214,2.33996 -7.681904,-4.96704 -0.802231,-0.45732 1.575599,0.97289 2.293861,1.55325 1.878922,1.51815 2.838048,3.05232 2.691893,5.49721 -0.307164,0.93882 -0.197297,1.5108 -1.28737,1.77812 -3.964779,0.9723 -18.291319,-10.77867 6.207869,4.89917 -3.3035,-2.28811 -8.019873,-5.32899 -7.415661,-9.8698 0.42764,-2.70986 0.908987,-5.87041 4.065761,-6.47571 1.337723,0.0485 1.268721,-0.0374 2.557097,0.3398 0.406429,0.11898 1.557139,0.6483 1.197204,0.42517 -20.380129,-12.63417 -13.551924,-8.13039 -9.14905,-5.37419 1.508569,3.73505 0.279654,6.87377 -3.337631,8.78881 -1.615341,0.69315 -2.162061,1.11979 -3.991976,1.11078 -0.686491,-0.003 -2.594635,-0.72105 -2.033633,-0.32538 3.407907,2.4036 7.179831,4.24582 10.719176,6.4513 0.572288,0.35661 -1.253568,-0.52173 -1.811388,-0.90057 -0.482014,-0.32736 -0.850092,-0.79709 -1.275138,-1.19563 -1.366347,-2.17952 -1.364758,-4.89392 -0.236725,-7.24109 3.648831,-1.68575 21.24049,12.2675 -7.350087,-5.78819 3.245056,1.73145 4.962574,4.43957 5.204839,8.13512 z" />
+  <path
+     style="fill:#ffffff;fill-opacity:1"
+     id="path388"
+     d="m 62.656364,447.09587 c 6.637148,6.58519 14.998302,11.44001 23.534059,15.1258 4.436214,-0.32934 4.41209,-5.82083 4.406203,-9.21816 -0.158025,-0.99336 -0.521834,-3.77038 -0.967661,-4.77399 -2.743527,-6.17596 -18.545796,-12.5815 -20.82243,-13.82136 -5.998961,-1.89979 -7.446764,-2.47167 -10.397123,3.68431 -1.528566,5.58908 -2.339258,11.47886 -2.089782,17.27821 1.958751,9.63774 9.306518,10.1611 18.481515,15.14734 4.178629,1.1481 5.240568,-0.64505 5.67554,-4.62224 0.136622,-5.39762 -3.835251,-9.12696 -7.90971,-12.03301 -0.988624,12.15469 -12.351356,-12.33448 -18.136318,-8.89197 -1.079078,0.64214 -1.85508,2.29024 -2.433091,3.26839 -2.786427,6.95087 -3.157854,14.66347 -3.140167,22.0734 1.333533,16.62771 5.561052,15.74295 21.294437,24.67382 9.471137,0.37941 14.626633,-3.79249 19.058914,-11.75053 2.586896,-5.69015 3.864158,-11.55768 2.438513,-17.68063 -2.058304,-6.87414 -10.291655,-14.09061 -17.638922,-12.71788 -3.416491,2.05763 -3.439628,6.93107 -3.862172,10.50028 -0.123532,2.85691 -0.776372,5.81843 0.02209,8.61998 2.556319,4.83081 12.878242,7.71876 14.671173,8.50303 0.36651,0.16032 2.611948,-2.37627 2.8803,-2.64294 1.337867,-1.73575 2.759916,-3.4415 2.255127,-5.71838 -12.028004,-6.7061 -12.138933,-11.42654 -20.672411,-4.58425 -2.100878,2.19338 -4.116591,4.88647 -4.908536,7.88111 4.704776,2.01635 9.161505,4.75672 14.114329,6.04906 0.796789,0.20791 1.000468,-1.3087 1.475811,-1.98112 2.18917,-3.09679 4.214766,-6.2598 5.967396,-9.62214 4.835299,-10.06457 1.71938,-7.30878 -11.304334,-15.01664 -2.288335,1.19501 -3.087328,4.10474 -3.99227,6.35269 -0.08322,0.12457 -0.166445,0.24914 -0.249667,0.37371 -0.02808,-0.0157 -0.05616,-0.0314 -0.08424,-0.0472 0,0 12.816736,7.95818 12.816736,7.95818 v 0 c 0.443641,-0.57212 0.229113,-0.24516 0.614469,-0.99938 0.374267,-1.04054 1.336626,-4.96113 2.764004,-4.3777 -4.100749,-2.50477 -8.20877,-4.99767 -12.302247,-7.51431 -0.172121,-0.10581 0.435848,0.10623 0.537002,0.28113 0.133373,0.23061 0.09499,0.52843 0.08517,0.79465 -0.06501,1.76331 -1.121986,3.25949 -1.73152,4.85927 -1.67761,3.29453 -3.629415,6.41126 -5.85178,9.37151 -0.488744,0.65102 -2.117678,1.32022 -1.5409,1.8947 3.490155,3.47623 8.028451,5.71012 12.042677,8.56518 -0.540487,-1.59189 3.066419,-5.88137 4.123844,-6.90215 0.977821,-0.74098 2.072785,-1.69775 3.261969,-2.12323 4.522266,-1.61801 19.193339,10.61504 -9.07549,-6.96081 2.0945,-0.24509 -0.598879,3.10109 -1.089429,3.63166 -0.425488,0.40411 -1.24892,1.24763 -1.797643,1.54487 -0.149225,0.0808 -0.649123,-0.0122 -0.503568,0.0751 18.248817,10.94111 16.402954,8.49005 11.132489,6.6365 -1.422948,-2.37953 -0.460208,-5.37668 -0.487066,-8.01029 0.233547,-2.39524 0.0211,-7.69715 2.79194,-8.53362 5.156499,1.88669 0.527564,0.24627 -11.162962,-6.71796 -0.314615,-0.18742 0.694598,0.25991 0.989964,0.4764 0.473465,0.34703 1.436274,1.5764 1.673374,2.0332 0.273703,0.52731 0.420308,1.11142 0.630461,1.66712 1.868694,6.30979 0.755196,10.72863 -1.732884,16.77494 -3.985978,7.14509 -9.26365,11.5012 -17.865444,9.8751 3.208455,1.9824 6.336518,4.10123 9.625366,5.94719 0.88189,0.49498 -1.700737,-1.13213 -2.380566,-1.88084 -3.077063,-3.38885 -3.486274,-8.68336 -4.025864,-12.94094 -0.073,-7.11728 0.256525,-14.55629 2.992657,-21.21613 0.258056,-0.39717 0.879544,-1.82137 1.695438,-1.94613 3.50871,-0.53654 20.178134,12.88136 -7.825708,-5.31865 3.881266,2.40624 8.39475,5.59246 8.508708,10.58911 -0.03569,3.6137 -1.246148,3.24891 -4.201194,2.30028 3.780199,2.24324 7.596603,4.42657 11.340595,6.72973 0.430281,0.2647 -0.951847,-0.35336 -1.388429,-0.60753 -2.030425,-1.18205 -2.713202,-3.33506 -3.396125,-5.44387 -0.544299,-5.54267 0.291884,-11.249 1.715356,-16.60601 2.577799,-5.31589 4.175504,-3.3666 9.12459,-1.83632 -24.998472,-15.10741 -5.827218,-4.47513 -4.205481,-1.72451 0.392401,0.66555 0.99915,3.77704 1.144071,4.44785 0.08419,2.06078 0.627894,7.73928 -2.85205,6.652 -5.14663,-2.49805 -3.273729,-1.63883 9.333371,5.6339 0.661075,0.38136 -1.29836,-0.80303 -1.934289,-1.22499 -1.696685,-1.1258 -2.46724,-1.65289 -3.958952,-3.02892 -0.518537,-0.47832 -0.988478,-1.00678 -1.482718,-1.51017 z" />
+  <path
+     style="fill:#ffffff;fill-opacity:1"
+     id="path389"
+     d="m 37.166168,456.89979 c 7.009005,6.90674 15.924006,12.0744 25.301461,15.04897 2.910775,0.97666 5.645154,1.30918 7.82678,-1.08675 2.554554,-5.66048 -3.986725,-11.30772 -7.637058,-14.64774 -9.173705,-6.72926 -19.091983,-13.01449 -30.365666,-15.22804 -3.184619,-0.61353 -5.836808,0.0446 -7.074444,3.14806 -1.034029,3.96954 0.09301,7.81713 1.588529,11.49123 0,0 13.442004,6.15289 13.442004,6.15289 v 0 c -1.597629,-3.26403 -2.758383,-6.7149 -1.930877,-10.37476 0.786811,-2.46325 3.799027,-1.78493 5.809466,-1.44396 1.902978,0.41597 2.723781,0.55098 4.657657,1.18318 0.966527,0.31596 3.685529,1.64886 2.864664,1.0487 -2.937664,-2.14781 -6.233324,-3.75995 -9.284837,-5.74268 -2.240177,-1.45556 9.727627,5.55091 6.783354,4.26845 3.059347,2.5967 5.713675,4.78289 7.534535,8.41121 0.602792,1.20115 1.485987,2.57233 0.794602,3.90603 -1.826231,1.707 -4.682205,0.34637 -6.725905,-0.20395 -5.052594,-1.86181 -12.560154,-6.63131 5.91322,4.29309 1.478348,0.87424 -2.933826,-1.82542 -4.196245,-2.98994 -0.518537,-0.47832 -0.988478,-1.00678 -1.482718,-1.51017 z" />
+</svg>
